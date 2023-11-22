@@ -1,0 +1,3 @@
+[submodule "Chunks/Plugins/ChunksCommon"]
+	path = Chunks/Plugins/ChunksCommon
+	url = https://github.com/rafasloth/ChunksCommon.git
